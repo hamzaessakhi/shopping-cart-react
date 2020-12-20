@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="585f1e7b-ccfc-4068-b15a-ae5dd69a64a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react-shopping-cart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/dress1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/dress2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/dress3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/dress4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/dress5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/dress6.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/Products.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/data.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
@@ -50,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608494641484</updated>
-      <workItem from="1608494710044" duration="5305000" />
+      <workItem from="1608494710044" duration="5620000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1608496076978</created>
@@ -78,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
